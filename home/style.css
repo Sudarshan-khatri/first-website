@@ -6,9 +6,13 @@
 }
 #dv{
     background-color: rgba(178, 193, 124, 0.728);
+    list-style-type:none;
+    gap: 40px;
+    padding: 40px;
+    margin:0;
     display: flex;
     justify-content: flex-end;
-    align-items:flex-end;
+    align-items:centre;
 }
 .header{
     color: rgb(155, 134, 166);
@@ -17,4 +21,9 @@
 }
 .in_head{
     color: chocolate;
+}
+.t_div{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    color: rgb(116, 110, 86);
 }
