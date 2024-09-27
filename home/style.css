@@ -1,11 +1,20 @@
 #m_page{
-    background-color:rgb(77, 112, 119) ;
-    top: 0%;
-    right: 0%;
+    background-color:rgb(195, 212, 215) ;
+    position:absolute ;
+    top: 0;
+    left: 0;
 }
-#div{
-    background-color: rgb(87, 144, 148);
+#dv{
+    background-color: rgba(178, 193, 124, 0.728);
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: flex-end;
+    align-items:flex-end;
+}
+.header{
+    color: rgb(155, 134, 166);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.in_head{
+    color: chocolate;
 }
