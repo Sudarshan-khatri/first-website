@@ -1,0 +1,11 @@
+#m_page{
+    background-color:rgb(77, 112, 119) ;
+    top: 0%;
+    right: 0%;
+}
+#div{
+    background-color: rgb(87, 144, 148);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
